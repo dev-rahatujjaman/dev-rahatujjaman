@@ -1,63 +1,96 @@
-# Hi there, I'm Rahat Uj Jaman👋 
-### Senior Shopify & E-commerce Developer 🚀
+# Hi, I'm Rahat Uj Jaman 👋
 
-I specialize in building high-conversion, scalable e-commerce experiences. From bespoke **Liquid** themes built from scratch to modern headless commerce architectures and custom Shopify apps, I bridge the gap between complex web engineering and retail growth.
+### Shopify Theme Developer & E-commerce Engineer 🚀
 
----
+I build **high-converting Shopify storefronts, custom themes, and e-commerce experiences** with a strong focus on performance, UX, and scalable architecture.
 
-### 🛠️ E-Commerce Tech Stack & Skills
+My work ranges from **custom Liquid themes and advanced Online Store 2.0 sections** to Shopify apps and interactive storefront experiences.
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>🎨 Storefront & Theme Dev</strong>
-      <ul>
-        <li>Liquid / JSON templates</li>
-        <li>Shopify CLI & Dawn Framework</li>
-        <li>Tailwind CSS / Alpine.js</li>
-        <li>Theme App Extensions</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <strong>⚙️ App Dev & Headless</strong>
-      <ul>
-        <li>Shopify Hydrogen & Oxygen</li>
-        <li>Next.js / Remix / GraphQL</li>
-        <li>Node.js / Ruby on Rails</li>
-        <li>Shopify Admin & Storefront APIs</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <strong>📈 Optimization & Workflow</strong>
-      <ul>
-        <li>CI/CD via GitHub Theme Integration</li>
-        <li>PageSpeed & Core Web Vitals CRO</li>
-        <li>Klaviyo / Pixel Integrations</li>
-        <li>Custom Checkout Extensibility</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> 🧩 **200+ Shopify sections designed & developed**
+> 🛍️ **Shopify Theme Development • E-commerce UX • Custom Shopify Apps**
 
 ---
 
-### 🧰 Featured Shopify Builds & Integrations
+## 🚀 What I Do
 
-* **[Section Monster](LINK)** — A Shopify section-selling app where I’m the sole developer and section designer. Designed and developed **200+ production-ready Shopify sections** focused on modern, conversion-driven storefront experiences.
+* 🛍️ Custom Shopify themes & storefronts
+* 🧩 Advanced Shopify sections & blocks
+* ⚡ Performance & Core Web Vitals optimization
+* 🎨 Conversion-focused e-commerce UI/UX
+* 🔌 Shopify app & theme app extension development
+* 🧠 Metafields, dynamic content & custom functionality
+* 🛠️ Shopify CLI, GitHub & modern development workflows
 
-* **[Luminous Invites](LINK)** — A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging user experience.
-
-* **[Beautiplace Shopify Store Theme](LINK)** — A fully customizable Shopify theme built on top of Horizon and Vue.js, featuring meta-field-driven dynamic filters and optimized lazy loading.
-
-* **[71three](LINK)** — A design and animation showcase platform built collaboratively with a creative team, bringing together interactive design, motion, and digital experiences.
 ---
 
-### 📊 GitHub Activity
+## 🛠️ Tech Stack
+
+### Shopify & Frontend
+
+`Shopify` `Liquid` `JavaScript` `HTML` `CSS` `JSON` `Shopify CLI`
+
+### Modern Frontend
+
+`Vue.js` `Tailwind CSS` `Alpine.js` `Next.js`
+
+### APIs & Development
+
+`Shopify Admin API` `Storefront API` `GraphQL` `Node.js`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Figma`
+
+---
+
+## ⭐ Featured Projects
+
+### 🧩 Section Monster
+
+**Shopify section-selling app**
+
+I am the **sole developer and section designer** behind Section Monster.
+
+* 🎨 200+ custom Shopify sections
+* 🛍️ Built specifically for Shopify storefronts
+* ⚡ Conversion-focused designs
+* 🧩 Online Store 2.0 compatible
+* 🚀 Designed for fast implementation without a page builder
+
+**[View Section Monster →](YOUR_APP_LINK)**
+
+---
+
+### 💌 Luminous Invites
+
+A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging customer experience.
+
+**[View Project →](YOUR_PROJECT_LINK)**
+
+---
+
+### 💄 Beautiplace Shopify Theme
+
+A highly customizable Shopify storefront built with **Horizon + Vue.js**, featuring dynamic metafield-driven filtering and optimized lazy loading.
+
+**[View Project →](YOUR_PROJECT_LINK)**
+
+---
+
+### 🎨 71three
+
+A collaborative design and animation showcase platform combining interactive interfaces, motion, and digital experiences.
+
+**[View Project →](YOUR_PROJECT_LINK)**
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dev-rahatujjaman&show_icons=true&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
+    alt="Rahat's GitHub Stats"
     height="170"
   />
   <img
@@ -76,7 +109,26 @@ I specialize in building high-conversion, scalable e-commerce experiences. From 
 
 ---
 
-### 🤝 Let's Build Something Great Together
-* 💼 **Available for:** Freelance contracts, agency collaboration, or full-time roles.
-* 🌐 **Portfolio / Website:** [rahatsh.netlify.app](https://rahatsh.netlify.app)
-* 📬 **Reach out:** [kingrootapk420@gmail.com](mailto:kingrootapk420@gmail.com) or connect on [LinkedIn](LINK_TO_LINKEDIN).
+## 🤝 Let's Build Something Great
+
+I'm interested in working on **Shopify stores, e-commerce products, custom themes, and Shopify apps**.
+
+* 💼 Freelance & agency collaborations
+* 🛍️ Shopify theme development
+* 🧩 Custom Shopify sections
+* 🔌 Shopify app development
+* ⚡ E-commerce performance & UX
+
+### 🌐 Portfolio
+
+**[rahatsh.netlify.app](https://rahatsh.netlify.app)**
+
+### 📬 Contact
+
+**[Email me](mailto:kingrootapk420@gmail.com)** • **[LinkedIn](YOUR_LINKEDIN_URL)**
+
+---
+
+<p align="center">
+  <i>Building better Shopify experiences, one section at a time.</i>
+</p>
