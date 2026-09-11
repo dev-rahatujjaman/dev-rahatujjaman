@@ -129,7 +129,7 @@ A collaborative design and animation showcase platform combining interactive int
   </td>
   <td width="35%" valign="middle" align="center">
 
-<img src="https://assets.shopifymonster.com/section-monster/3.png" width="300" alt="71three">
+<img src="https://assets.shopifymonster.com/section-monster/4.png" width="300" alt="71three">
 
   </td>
   </tr>
