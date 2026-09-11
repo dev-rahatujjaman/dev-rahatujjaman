@@ -45,6 +45,10 @@ My work ranges from **custom Liquid themes and advanced Online Store 2.0 section
 
 ## ⭐ Featured Projects
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ### 🧩 Section Monster
 
 **Shopify section-selling app**
@@ -59,7 +63,20 @@ I am the **sole developer and section designer** behind Section Monster.
 
 **[View Section Monster →](https://apps.shopify.com/section-monster)**
 
----
+  </td>
+  <td width="35%" valign="middle" align="center">
+
+<img src="YOUR_SECTION_MONSTER_IMAGE_URL" width="300" alt="Section Monster">
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 ### 💌 Luminous Invites
 
@@ -67,7 +84,20 @@ A visually immersive e-commerce platform for creating and sharing invitation vid
 
 **[View Project →](https://luminousinvites.com/)**
 
----
+  </td>
+  <td width="35%" valign="middle" align="center">
+
+<img src="YOUR_LUMINOUS_INVITES_IMAGE_URL" width="300" alt="Luminous Invites">
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 ### 💄 Beautiplace Shopify Theme
 
@@ -75,13 +105,35 @@ A highly customizable Shopify storefront built with **Horizon + Vue.js**, featur
 
 **[View Project →](https://theme-beautiplace-demo.myshopify.com/en-bd)**
 
----
+  </td>
+  <td width="35%" valign="middle" align="center">
+
+<img src="YOUR_BEAUTIPLACE_IMAGE_URL" width="300" alt="Beautiplace Shopify Theme">
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 ### 🎨 71three
 
 A collaborative design and animation showcase platform combining interactive interfaces, motion, and digital experiences.
 
 **[View Project →](https://71three.com)**
+
+  </td>
+  <td width="35%" valign="middle" align="center">
+
+<img src="YOUR_71THREE_IMAGE_URL" width="300" alt="71three">
+
+  </td>
+  </tr>
+</table>
 
 ---
 
