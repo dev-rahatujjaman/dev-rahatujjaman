@@ -66,7 +66,7 @@ I am the **sole developer and section designer** behind Section Monster.
   </td>
   <td width="35%" valign="middle" align="center">
 
-<img src="[YOUR_SECTION_MONSTER_IMAGE_URL](https://ibb.co.com/wZXw0zp0)" width="300" alt="Section Monster">
+<img src="https://ibb.co.com/wZXw0zp0" width="300" alt="Section Monster">
 
   </td>
   </tr>
@@ -87,7 +87,7 @@ A visually immersive e-commerce platform for creating and sharing invitation vid
   </td>
   <td width="35%" valign="middle" align="center">
 
-<img src="[YOUR_LUMINOUS_INVITES_IMAGE_URL](https://ibb.co.com/ynzhz88s)" width="300" alt="Luminous Invites">
+<img src="https://ibb.co.com/ynzhz88s" width="300" alt="Luminous Invites">
 
   </td>
   </tr>
@@ -108,7 +108,7 @@ A highly customizable Shopify storefront built with **Horizon + Vue.js**, featur
   </td>
   <td width="35%" valign="middle" align="center">
 
-<img src="[YOUR_BEAUTIPLACE_IMAGE_URL](https://ibb.co.com/PsVSpP9X)" width="300" alt="Beautiplace Shopify Theme">
+<img src="https://ibb.co.com/PsVSpP9X" width="300" alt="Beautiplace Shopify Theme">
 
   </td>
   </tr>
@@ -129,7 +129,7 @@ A collaborative design and animation showcase platform combining interactive int
   </td>
   <td width="35%" valign="middle" align="center">
 
-<img src="[YOUR_71THREE_IMAGE_URL](https://ibb.co.com/N2tPkMtf)" width="300" alt="71three">
+<img src="https://ibb.co.com/N2tPkMtf" width="300" alt="71three">
 
   </td>
   </tr>
