@@ -57,7 +57,7 @@ I am the **sole developer and section designer** behind Section Monster.
 * 🧩 Online Store 2.0 compatible
 * 🚀 Designed for fast implementation without a page builder
 
-**[View Section Monster →]((https://apps.shopify.com/section-monster))**
+**[View Section Monster →](https://apps.shopify.com/section-monster)**
 
 ---
 
@@ -65,7 +65,7 @@ I am the **sole developer and section designer** behind Section Monster.
 
 A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging customer experience.
 
-**[View Project →]([YOUR_PROJECT_LINK](https://luminousinvites.com/))**
+**[View Project →](https://luminousinvites.com/)**
 
 ---
 
@@ -73,7 +73,7 @@ A visually immersive e-commerce platform for creating and sharing invitation vid
 
 A highly customizable Shopify storefront built with **Horizon + Vue.js**, featuring dynamic metafield-driven filtering and optimized lazy loading.
 
-**[View Project →](YOUR_PROJECT_LINK)**
+**[View Project →](https://theme-beautiplace-demo.myshopify.com/en-bd)**
 
 ---
 
@@ -81,7 +81,7 @@ A highly customizable Shopify storefront built with **Horizon + Vue.js**, featur
 
 A collaborative design and animation showcase platform combining interactive interfaces, motion, and digital experiences.
 
-**[View Project →]((https://theme-beautiplace-demo.myshopify.com/en-bd))**
+**[View Project →](https://71three.com)**
 
 ---
 
