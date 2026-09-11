@@ -52,8 +52,6 @@ I specialize in building high-conversion, scalable e-commerce experiences. From 
 * **[71three](LINK)** — A design and animation showcase platform built collaboratively with a creative team, bringing together interactive design, motion, and digital experiences.
 ---
 
-### 📊 GitHub Stats & Open Source Contributions
-
 ### 📊 GitHub Activity
 
 <p align="center">
