@@ -31,7 +31,7 @@ My work ranges from **custom Liquid themes and advanced Online Store 2.0 section
 
 ### Modern Frontend
 
-`Vue.js` `Tailwind CSS` `Alpine.js` `Next.js`
+`Vue.js` `Tailwind CSS`  `Next.js`
 
 ### APIs & Development
 
@@ -57,7 +57,7 @@ I am the **sole developer and section designer** behind Section Monster.
 * 🧩 Online Store 2.0 compatible
 * 🚀 Designed for fast implementation without a page builder
 
-**[View Section Monster →](YOUR_APP_LINK)**
+**[View Section Monster →]((https://apps.shopify.com/section-monster))**
 
 ---
 
@@ -65,7 +65,7 @@ I am the **sole developer and section designer** behind Section Monster.
 
 A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging customer experience.
 
-**[View Project →](YOUR_PROJECT_LINK)**
+**[View Project →]([YOUR_PROJECT_LINK](https://luminousinvites.com/))**
 
 ---
 
@@ -81,7 +81,7 @@ A highly customizable Shopify storefront built with **Horizon + Vue.js**, featur
 
 A collaborative design and animation showcase platform combining interactive interfaces, motion, and digital experiences.
 
-**[View Project →](YOUR_PROJECT_LINK)**
+**[View Project →]((https://theme-beautiplace-demo.myshopify.com/en-bd))**
 
 ---
 
@@ -90,12 +90,10 @@ A collaborative design and animation showcase platform combining interactive int
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dev-rahatujjaman&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Rahat's GitHub Stats"
     height="170"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rahatujjaman&layout=compact&hide_border=true"
-    alt="Top Languages"
     height="170"
   />
 </p>
@@ -103,7 +101,6 @@ A collaborative design and animation showcase platform combining interactive int
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=dev-rahatujjaman&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
 
