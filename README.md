@@ -41,20 +41,39 @@ I specialize in building high-conversion, scalable e-commerce experiences. From 
 
 ---
 
-### 🧰 Featured Shopify Repositories & Case Studies
+### 🧰 Featured Shopify Builds & Integrations
 
-*   **[B-Inspired Shopify 2.0 Theme](LINK_TO_REPO)** - A fully customizable custom theme built on top of Dawn and Vue.js, featuring meta-field-driven dynamic filters and lightning-fast lazy loading.
-*   **[Shopify-NextJS-Headless-Storefront](LINK_TO_REPO)** - A headless commerce engine leveraging the Storefront GraphQL API, Next.js, and Tailwind CSS for instant page transitions.
-*   **[Custom-Fulfillment-App-Template](LINK_TO_REPO)** - A Node/Remix embedded app providing seamless webhook handling, OAuth authentication, and Shopify Admin API sync.
+* **[Section Monster](LINK)** — A Shopify section-selling app where I’m the sole developer and section designer. Designed and developed **200+ production-ready Shopify sections** focused on modern, conversion-driven storefront experiences.
 
+* **[Luminous Invites](LINK)** — A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging user experience.
+
+* **[Beautiplace Shopify Store Theme](LINK)** — A fully customizable Shopify theme built on top of Horizon and Vue.js, featuring meta-field-driven dynamic filters and optimized lazy loading.
+
+* **[71three](LINK)** — A design and animation showcase platform built collaboratively with a creative team, bringing together interactive design, motion, and digital experiences.
 ---
 
 ### 📊 GitHub Stats & Open Source Contributions
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://vercel.app" alt="Your GitHub Stats" />
-  <br/>
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dev-rahatujjaman&show_icons=true&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rahatujjaman&layout=compact&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=dev-rahatujjaman&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
