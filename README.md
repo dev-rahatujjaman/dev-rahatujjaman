@@ -53,7 +53,7 @@ My work ranges from **custom Liquid themes and advanced Online Store 2.0 section
 
 **Shopify section-selling app**
 
-I am the **sole developer and section designer** behind Section Monster.
+I am the **sole section developer and section designer** behind Section Monster App and Showcase Website as well .
 
 * 🎨 200+ custom Shopify sections
 * 🛍️ Built specifically for Shopify storefronts
