@@ -266,49 +266,38 @@ A collaborative design and animation showcase platform combining interactive int
 I'm interested in working on **Shopify stores, e-commerce products, custom themes, and Shopify apps**.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**Shopify Development**
+### Shopify Development
 
 Custom themes, sections, storefronts, and e-commerce experiences.
 
-```
 </td>
 <td width="50%" valign="top">
-```
 
-**Shopify Apps**
+### Shopify Apps
 
 Custom apps, theme app extensions, and Shopify integrations.
 
-```
 </td>
-```
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-**E-commerce UX**
+### E-commerce UX
 
 Conversion-focused interfaces and high-performance storefronts.
 
-```
 </td>
 <td width="50%" valign="top">
-```
 
-**Collaboration**
+### Collaboration
 
 Freelance projects, agencies, startups, and e-commerce teams.
 
-```
 </td>
-```
-
-  </tr>
+</tr>
 </table>
 
 ---
@@ -318,6 +307,14 @@ Freelance projects, agencies, startups, and e-commerce teams.
 **[rahatsh.netlify.app →](https://rahatsh.netlify.app)**
 
 ## Contact
+
+**[Email →](mailto:kingrootapk420@gmail.com)**   •   **[LinkedIn →](YOUR_LINKEDIN_URL)**
+
+---
+
+<p align="center">
+<i>Building better Shopify experiences, one section at a time.</i>
+</p>
 
 **[Email →](mailto:kingrootapk420@gmail.com)**   •   **[LinkedIn →](YOUR_LINKEDIN_URL)**
 
