@@ -139,7 +139,7 @@ A collaborative design and animation showcase platform combining interactive int
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=dev-rahatujjaman&show_icons=true&hide_border=true&rank_icon=github"
     height="170"
@@ -148,7 +148,7 @@ A collaborative design and animation showcase platform combining interactive int
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rahatujjaman&layout=compact&hide_border=true"
     height="170"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
