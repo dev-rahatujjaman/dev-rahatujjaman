@@ -1,29 +1,29 @@
 # Hi, I'm Rahat Uj Jaman 👋
 
-### Shopify Theme Developer & E-commerce Engineer 🚀
+### Shopify Theme Developer & E-commerce Engineer 
 
 I build **high-converting Shopify storefronts, custom themes, and e-commerce experiences** with a strong focus on performance, UX, and scalable architecture.
 
 My work ranges from **custom Liquid themes and advanced Online Store 2.0 sections** to Shopify apps and interactive storefront experiences.
 
-> 🧩 **200+ Shopify sections designed & developed**
-> 🛍️ **Shopify Theme Development • E-commerce UX • Custom Shopify Apps**
+>  **200+ Shopify sections designed & developed**
+>  **Shopify Theme Development • E-commerce UX • Custom Shopify Apps**
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-* 🛍️ Custom Shopify themes & storefronts
-* 🧩 Advanced Shopify sections & blocks
-* ⚡ Performance & Core Web Vitals optimization
-* 🎨 Conversion-focused e-commerce UI/UX
-* 🔌 Shopify app & theme app extension development
-* 🧠 Metafields, dynamic content & custom functionality
-* 🛠️ Shopify CLI, GitHub & modern development workflows
+*  Custom Shopify themes & storefronts
+*  Advanced Shopify sections & blocks
+*  Performance & Core Web Vitals optimization
+*  Conversion-focused e-commerce UI/UX
+*  Shopify app & theme app extension development
+*  Metafields, dynamic content & custom functionality
+*  Shopify CLI, GitHub & modern development workflows
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Shopify & Frontend
 
@@ -43,23 +43,23 @@ My work ranges from **custom Liquid themes and advanced Online Store 2.0 section
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="65%" valign="top">
 
-### 🧩 Section Monster - *Built For Shopify* App
+###  Section Monster - *Built For Shopify* App
 
 **Shopify section-selling app**
 
 I am the **sole section developer and section designer** behind Section Monster App and Showcase Website as well .
 
-* 🎨 200+ custom Shopify sections
-* 🛍️ Built specifically for Shopify storefronts
-* ⚡ Conversion-focused designs
-* 🧩 Online Store 2.0 compatible
-* 🚀 Designed for fast implementation without a page builder
+*  200+ custom Shopify sections
+*  Built specifically for Shopify storefronts
+*  Conversion-focused designs
+*  Online Store 2.0 compatible
+*  Designed for fast implementation without a page builder
 
 **[View Section Monster →](https://apps.shopify.com/section-monster)**
 
@@ -78,7 +78,7 @@ I am the **sole section developer and section designer** behind Section Monster 
   <tr>
     <td width="65%" valign="top">
 
-### 💌 Luminous Invites
+###  Luminous Invites
 
 A visually immersive e-commerce platform for creating and sharing invitation videos, focused on delivering a polished and engaging customer experience.
 
@@ -99,7 +99,7 @@ A visually immersive e-commerce platform for creating and sharing invitation vid
   <tr>
     <td width="65%" valign="top">
 
-### 💄 Beautiplace Shopify Theme
+###  Beautiplace Shopify Theme
 
 A highly customizable Shopify storefront built with **Horizon + Vue.js**, featuring dynamic metafield-driven filtering and optimized lazy loading.
 
@@ -120,7 +120,7 @@ A highly customizable Shopify storefront built with **Horizon + Vue.js**, featur
   <tr>
     <td width="65%" valign="top">
 
-### 🎨 71three
+###  71three
 
 A collaborative design and animation showcase platform combining interactive interfaces, motion, and digital experiences.
 
@@ -158,15 +158,15 @@ A collaborative design and animation showcase platform combining interactive int
 
 ---
 
-## 🤝 Let's Build Something Great
+##  Let's Build Something Great
 
 I'm interested in working on **Shopify stores, e-commerce products, custom themes, and Shopify apps**.
 
-* 💼 Freelance & agency collaborations
-* 🛍️ Shopify theme development
-* 🧩 Custom Shopify sections
-* 🔌 Shopify app development
-* ⚡ E-commerce performance & UX
+*  Freelance & agency collaborations
+*  Shopify theme development
+*  Custom Shopify sections
+*  Shopify app development
+*  E-commerce performance & UX
 
 ### 🌐 Portfolio
 
